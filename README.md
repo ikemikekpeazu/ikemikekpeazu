@@ -4,7 +4,7 @@ My name is Ikem Ikekpeazu, I'm a CS student at Columbia, and I'm an aspiring iOS
 
 ### 🛠 Tech Stack & Tools
 * **Languages:** Swift
-* **Frameworks/Libraries:** SwiftUI, Combine, Core Data, SwiftConcurrency, RESTAPIs
+* **Frameworks/Libraries:** SwiftUI, Combine, Core Data, Swift Concurrency, RESTAPIs
 * **Tools:** Git, GitHub, Postman
 
 ### 📫 Connect with me
