@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ikem Ikekpeazu, I'm a CS student at Columbia, and I'm an aspiring iOS Engineer.
+My name is Ikem Ikekpeazu, I'm a Senior at Columbia studying CS, and I'm an aspiring iOS Engineer.
 
 ### 🛠 Tech Stack & Tools
 * **Languages:** Swift
